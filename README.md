@@ -3,7 +3,7 @@
 <img width="300px" src="https://media1.tenor.com/m/lgvOyNdiBEIAAAAd/girls-band-cry.gif"/>
 
 개발 좋아하는 고등학생 구민희 입니다.  
-주로 SpringBoot와 Vue.js를 활용하여 웹을 개발합니다.
+주로 SpringBoot와 Vue.js를 활용하여 웹 개발합니다.
 
 좋아하는걸로 먹고 사는게 제 꿈입니다.
 
